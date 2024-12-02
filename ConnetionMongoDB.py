@@ -24,7 +24,7 @@ def upload_csv_to_mongodb(collection, data):
 
 def main():
     csv_file_path = "productData.csv"
-    MONGODB_URI = "mongodb+srv://nhan311ne:nhanlolo123@nhan.uxnpv.mongodb.net/"
+    MONGODB_URI = "mongodb+srv://"server":"password"@nhan.uxnpv.mongodb.net/"
     DB_NAME = "test"
     COLLECTION_NAME = "products"
 
